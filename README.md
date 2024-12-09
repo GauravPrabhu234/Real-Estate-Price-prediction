@@ -5,16 +5,21 @@ This project focuses on predicting real estate prices using a linear regression 
 
 # 📊 Features
 Data Preprocessing: Cleaning, handling missing values, and encoding categorical data.
+
 Exploratory Data Analysis (EDA): Visualizing trends and patterns in the dataset.
+
 Model Building: Training a linear regression model for price prediction.
+
 Model Evaluation: Assessing performance using evaluation metrics like Mean Squared Error (MSE) and R² Score.
 
 # 🚀 Technologies Used
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 # 🏆 Key Highlights
 Real-world dataset usage for training and testing.
+
 Insightful data visualizations for better understanding.
 
 # 🤝 Contribution
@@ -22,6 +27,7 @@ Feel free to fork the repository, create feature branches, and submit pull reque
 
 # 📧 Contact
 For questions, suggestions, or collaborations, please contact me at:
+
 Email: prabhugaurav54@gmail.com
 
-# ⭐ If you find this project helpful, don't forget to star the repository! ⭐
+# ⭐ If you find this project helpful, don't forget to star the repository! 
